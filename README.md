@@ -12,4 +12,16 @@ ASP.NET Core 6 Web API Using Entity Framework Core 6 Database First Approach. . 
 
 The web api starts running at  `https://localhost:7228/swagger/index.html`
 
+## Screenshots
 
+![localhost_7257_swagger_index html(Nest Hub Max)](https://user-images.githubusercontent.com/84091455/215123030-0f2f4e7a-5cd4-4d4e-842b-3c0983462610.png)
+
+![localhost_7257_swagger_index html(Nest Hub Max) (1)](https://user-images.githubusercontent.com/84091455/215123147-61788c4a-535d-4775-a4b2-06cf691ee55d.png)
+
+![localhost_7257_swagger_index html(Nest Hub Max) (2)](https://user-images.githubusercontent.com/84091455/215123214-28ac9186-e002-4cd6-84cd-5281bf9e46a7.png)
+
+![localhost_7257_swagger_index html(Nest Hub Max) (3)](https://user-images.githubusercontent.com/84091455/215123265-e6068c8c-00a2-4036-aed4-5fa714856773.png)
+
+![localhost_7257_swagger_index html(Nest Hub Max) (4)](https://user-images.githubusercontent.com/84091455/215123335-f25cfa64-cc1f-4d3d-8800-e11b0616e1b3.png)
+
+![localhost_7257_swagger_index html(Nest Hub Max) (5)](https://user-images.githubusercontent.com/84091455/215123354-58831257-04ed-476e-8a76-909d95b73eae.png)
